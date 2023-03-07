@@ -1,9 +1,9 @@
 ---
-title: Savage
+title: Ultimate
 layout: default
 has_children: true
-nav_order: 3
+nav_order: 4
 child_nav_order: reversed
 ---
 
-# Savage Raids
+# Ultimate Raids
