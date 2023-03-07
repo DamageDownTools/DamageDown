@@ -18,6 +18,6 @@ Join the conversation on our discord server!
 
 Use the links below or the navigation bar on the left to find the resources you need!
 
-[Extreme](DamageDown/Extreme){: .btn .btn-green }
-[Savage](DamageDown/Savage){: .btn .btn-green }
-[Ultimate](DamageDown/Ultimate){: .btn .btn-green }
+[Extreme](./Extreme){: .btn .btn-green }
+[Savage](./Savage){: .btn .btn-green }
+[Ultimate](./Ultimate){: .btn .btn-green }
