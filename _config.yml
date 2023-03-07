@@ -5,4 +5,9 @@ theme: just-the-docs
 url: https://DamageDownTools.github.io
 
 aux_links:
-  Template Repository: https://github.com/DamageDownTools/just-the-docs-template
+  Discord Server: https://github.com/DamageDownTools/just-the-docs-template
+
+callouts:
+  warning:
+    title: Warning
+    color: red
