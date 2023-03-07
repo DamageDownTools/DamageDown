@@ -3,11 +3,10 @@ title: Home
 layout: home
 ---
 
-{: .label .label-yellow }
+# Welcome to Damage Down Tools
+a repository of FFXIV Materia DC Raid Strategies, Guides and resources.
 
-Welcome to Damage Down, a repository of FFXIV Materia DC Raid Strategies, Guides and resources.
-
-{: .highlight }
+{: .warning }
 This site is a work-in-progress, we are still actively creating and updating content and we hope to release this completely soon.
 
 Join the conversation on our discord server!
