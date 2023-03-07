@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Damage Down
+description: Materia DC Guides, Macros and other raid resources.
 theme: just-the-docs
 
-url: https://DamageDownTools.github.io
+url: https://DamageDownTools.github.io/damagedown/
 
 aux_links:
   Template Repository: https://github.com/DamageDownTools/just-the-docs-template
