@@ -14,10 +14,10 @@ Join the conversation on our discord server!
 
 [Join us on Discord](https://discord.gg/zxYJ9HMdCZ){: .btn .btn-purple }
 
-# Get started
+## Get started
 
 Use the links below or the navigation bar on the left to find the resources you need!
 
-[Extremes](/Extreme){: .btn .btn-green }
+[Extreme](/Extreme){: .btn .btn-green }
 [Savage](/Savage){: .btn .btn-green }
-[Ultimates](http://example.com/){: .btn .btn-green }
+[Ultimate](http://example.com/){: .btn .btn-green }
