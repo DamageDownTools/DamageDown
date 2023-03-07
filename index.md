@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# Welcome to Damage Down Tools
+# Welcome to Damage Down
 An repository of FFXIV Materia DC Raid Strategies, Guides and resources.
 
 {: .warning }
