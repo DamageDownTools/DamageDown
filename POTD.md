@@ -1,6 +1,7 @@
 ---
 title: Palace of the Dead
 layout: default
+nav_order: 3
 parent: Deep Dungeons
 ---
 
