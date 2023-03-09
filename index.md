@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+![Damage Down Logo](/assets/images/damagedown.png)
+{: .float-left}
 # Welcome to Damage Down
 An repository of FFXIV Materia DC Raid Strategies, Guides and resources.
 
