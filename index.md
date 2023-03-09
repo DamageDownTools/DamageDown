@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 ![Damage Down Logo](https://damagedowntools.github.io/DamageDown/assets/images/damagedown.png)
-{: .float-left}
+{: .float-left .v-align-top}
 # Welcome to Damage Down
 An repository of FFXIV Materia DC Raid Strategies, Guides and resources.
 
